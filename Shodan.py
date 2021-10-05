@@ -6,7 +6,7 @@ August 2021
 @author          : Harun Karaman
 
 """
-SHODAN_API_KEY = "RHlEwVP3WRn9sOelFiM5ak5pmL38fiqI"
+SHODAN_API_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 from pandas import DataFrame as df
 import pyexcel_xlsx as excel
