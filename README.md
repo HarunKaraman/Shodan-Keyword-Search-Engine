@@ -9,7 +9,9 @@ The project has been developed on python and the required libraries are shodan, 
 Installation
 1- Install python 3.x.x
 2- pip install shodan-api, pandas and openpyxl
-3- download project and put in a folder
+3- Get free shodan api code from shodan.io
+4- download project and put in a folder
+
 
 Usage
 1- Change the keyword for what you want to search
